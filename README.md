@@ -1,6 +1,8 @@
 # 演化計算導論
 姓名：李名智
+
 學號：1102924
+
 主題：GA_Ackley function
 ### 一、計畫目標：
 產生初始群集並利用Ackley function將此群集基因有較好的品質，Fitness越小則越佳。
